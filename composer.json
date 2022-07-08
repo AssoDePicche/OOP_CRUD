@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        },
+        "files": [
+            "App/Common/Enviroment.php",
+            "App/Database/Entity.php",
+            "App/Models/User.php"
+        ]
+    }
+}
