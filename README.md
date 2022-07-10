@@ -9,11 +9,11 @@ CRUD operations performed with the object-oriented programming paradigm in order
 Instantiate the class entity and pass the name of the table you want to handle in its constructor. The database connection settings (such as username, database, host, etc.) can be modified in a file called .env in the root directory
 
 
-### Index
-<img src="images/Index.png">
+### Index.php
+<img src="./images/Index.png">
 
 ### Enviroment File
-<img src="">
+<img src="./images/env.png">
 
 ### Entity Class
-<img src="">
+<img src="./images/Entity Class.png">
