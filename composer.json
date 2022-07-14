@@ -4,7 +4,7 @@
             "App\\": "App/"
         },
         "files": [
-            "App/Common/Enviroment.php",
+            "App/Common/Environment.php",
             "App/Database/Entity.php",
             "App/Models/User.php"
         ]
