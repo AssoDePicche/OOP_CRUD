@@ -17,19 +17,19 @@ declare(strict_types=1);
 
 require_once __DIR__ .  "/vendor/autoload.php";
 
-use App\Common\Enviroment;
+use App\Common\Environment;
 use App\Database\Entity;
 
-Enviroment::load(__DIR__);
+Environment::load(__DIR__);
 ```
 
-### Enviroment File
+### Environment File
 ```php
 <?php
 
 namespace App\Common;
 
-class Enviroment
+class Environment
 {
     public static function load(string $directory)
     {
